@@ -52,4 +52,4 @@ $ git push origin minha-branch
 
 Delete sua branch, se quiser, quando o merge da sua pull request for feito. <br />
 
-Feito com 💜 por <a href="https://www.linkedin.com/in/jose-murillo-dev/" target="blank">JoseMurilloc</a>.
+Feito com 💜 por <a href="https://www.linkedin.com/in/jose-murillodev/" target="blank">JoseMurilloc</a>.
